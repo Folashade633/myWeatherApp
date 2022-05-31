@@ -57,3 +57,9 @@ button:hover {
 .forecast {
   font-size: bold;
 }
+.footer {
+  text-align: center;
+  padding: 2px;
+  font-size: small;
+  color: #eef1f5;
+}
